@@ -5,7 +5,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Behavioral / Cultural
 
-⋅⋅* Tell Me About Yourself with (30 seconds) _Elevator Pitch_**. 
+⋅⋅* Tell Me About Yourself with (30 seconds) **_Elevator Pitch_**. 
 ⋅⋅* Talk about your project - What was the most challenging part? 
 ⋅⋅* Why a Career Transition ? 
 ⋅⋅* Previous Work Experience
