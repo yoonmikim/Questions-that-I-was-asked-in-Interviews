@@ -3,12 +3,17 @@
 Markdown Cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Questions I am asking in Interview:
+https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-you-should-ask/#419fa41aace2
+
 ## Behavioral / Cultural
 
 * Tell Me About Yourself with (30 seconds) **_Elevator Pitch_**. 
 * Talk about your project - What was the most challenging part? 
 * Why a Career Transition ? 
 * Previous Work Experience
+* What do you know about the company/position?
+* What are your greatest professional strengths?
 
 
 ## Technical
