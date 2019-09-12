@@ -3,8 +3,6 @@
 Markdown Cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Questions I am asking in Interview:
-https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-you-should-ask/#419fa41aace2
 
 ## Behavioral / Cultural
 
@@ -14,6 +12,20 @@ https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-yo
 * Previous Work Experience
 * What do you know about the company/position?
 * What are your greatest professional strengths?
+* Do you have any questions?
+
+Questions I am asking in Interview:
+https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-you-should-ask/#419fa41aace2
+https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
+
+
+## Group Dynamic Interview
+ * Pick 3 most important adjectives to describe the role/position and why (explain the reasoning behind)
+ * Share with other candidates - make a decision on finalizing the major 3
+ * Write SQL queries - need to brush up on that
+ * ERPsuite or not, that is the question - make a slide to present with diagrams/graphs
+ * Learn Qlik
+ 
 
 
 ## Technical
