@@ -54,7 +54,9 @@ Primitive types are the most basic data types available within the Java language
 
 * Asteroids Collision Algorithm
 * DFS / BFS 2D Nested Array (Island Problem) 
-* 
+* What is DOM / SCOPE (Global / local variable) / Responsive Web Design
+* Balancing Parentheses (using Stack & array)  
+* Match angles (angle brackets < > > < )
 
 #### React 
 * Component List Button Toggle on Click 
@@ -69,3 +71,10 @@ Primitive types are the most basic data types available within the Java language
 * Perform some calculations involving dates and money to generate an invoice
  + Parsing dates and times
  - Handling floating-point numbers, especially around addition, multiplication, and rounding
+ 
+* Memorizing quiz game CLI with Countries and Cities
+
+ ### HTML & CSS
+* What is HTML / CSS 
+* How do you make a table with 3 different sections ? 
+*
