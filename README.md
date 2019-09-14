@@ -57,11 +57,15 @@ Primitive types are the most basic data types available within the Java language
 * What is DOM / SCOPE (Global / local variable) / Responsive Web Design
 * Balancing Parentheses (using Stack & array)  
 * Match angles (angle brackets < > > < )
+* given an array of numbers, return the number of triplets where the sume of two elements equal the third. (worst n^3, better time complexity with n^2 + m log m )
+* given a string, find its first non-repeating character (given a string, find the index of an element that only appear once)
+* Selling Google Stocks for maximum profit 
 
 #### React 
 * Component List Button Toggle on Click 
 * GraphQL <-> RESTful API 
-
+* Like Button, Click to Read the Full Article Button
+* Hackernews Clone - built fullstack with Apollo, Prisma, GraphQl, and React
 
 ### Ruby
 
