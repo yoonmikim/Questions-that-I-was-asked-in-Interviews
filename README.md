@@ -48,7 +48,8 @@ Primitive types are the most basic data types available within the Java language
 * Finding the number of ways from point A to B - Using Dijakstra Algorithm 
 + thoughtworks trains problem
 
-
+* Code Challenge - The first line of the input contains an integer N - the number of elements in the array. 1 <= N <= 10. The second line of the input contains N integers - the elements of the array, separated with single spaces. 1 <= ai <= 10. 
+ Math.abs(arr[i] - arr[i+1]) <= 1
 
 ### JavaScript
 
@@ -66,6 +67,11 @@ Primitive types are the most basic data types available within the Java language
 * GraphQL <-> RESTful API 
 * Like Button, Click to Read the Full Article Button
 * Hackernews Clone - built fullstack with Apollo, Prisma, GraphQl, and React
+* 
+
+#### Redux 
+* Redux Thunk - middleware : Redux Thunk is a middleware that lets you call action creators that return a function instead of an action object. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
+*
 
 ### Ruby
 
@@ -81,4 +87,4 @@ Primitive types are the most basic data types available within the Java language
  ### HTML & CSS
 * What is HTML / CSS 
 * How do you make a table with 3 different sections ? 
-*
+* 
