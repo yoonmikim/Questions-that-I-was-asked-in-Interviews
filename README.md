@@ -51,6 +51,10 @@ Primitive types are the most basic data types available within the Java language
 * Code Challenge - The first line of the input contains an integer N - the number of elements in the array. 1 <= N <= 10. The second line of the input contains N integers - the elements of the array, separated with single spaces. 1 <= ai <= 10. 
  Math.abs(arr[i] - arr[i+1]) <= 1
 
+* https://stackoverflow.com/questions/600293/how-to-check-if-a-number-is-a-power-of-2
+* Parallelism algorithms Slowdown - https://stackoverflow.com/questions/23661581/parallel-algorithm-slower-than-sequential
+https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-run-more-slowly-than-its-sequential-counterpart 
+
 ### JavaScript
 
 * Asteroids Collision Algorithm
@@ -67,7 +71,7 @@ Primitive types are the most basic data types available within the Java language
 * GraphQL <-> RESTful API 
 * Like Button, Click to Read the Full Article Button
 * Hackernews Clone - built fullstack with Apollo, Prisma, GraphQl, and React
-* 
+* <div> <ul> <li> array.map( item => item ) </li> </ul> </div> or array.map(item => <Item item={item} />)
 
 #### Redux 
 * Redux Thunk - middleware : Redux Thunk is a middleware that lets you call action creators that return a function instead of an action object. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
@@ -88,3 +92,7 @@ Primitive types are the most basic data types available within the Java language
 * What is HTML / CSS 
 * How do you make a table with 3 different sections ? 
 * 
+
+### Python
+* Pass https://docs.python.org/2.0/ref/pass.html
+
