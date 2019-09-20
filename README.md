@@ -55,12 +55,22 @@ Primitive types are the most basic data types available within the Java language
 * Parallelism algorithms Slowdown - https://stackoverflow.com/questions/23661581/parallel-algorithm-slower-than-sequential
 https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-run-more-slowly-than-its-sequential-counterpart 
 
+- You have N boxes in your room which you want to carry to a different place. There are too many to carry in one trip, so you want to split them into several piles using the following algorithm: if the current pile has at most M boxes, you can carry it as is, otherwise you split it into P parts as equally as possible (i.e. so that the sizes of the parts differ at most by 1) and apply the same algorithm to each of the parts. If you're trying to split less than P boxes into P piles, discard resulting zero-sized piles (see example 2).
+* https://repl.it/@Xoys/calculatePiles
+* https://repl.it/repls/HappyColdSequence
+* https://www.geeksforgeeks.org/minimum-number-of-stacks-possible-using-boxes-of-given-capacities/
+
+
 ### JavaScript
 
 * Asteroids Collision Algorithm
 * DFS / BFS 2D Nested Array (Island Problem) 
 * What is DOM / SCOPE (Global / local variable) / Responsive Web Design
-* Balancing Parentheses (using Stack & array)  
+* Balancing Parentheses (using Stack & array)
+ https://codereview.stackexchange.com/questions/179471/find-the-corresponding-closing-parenthesis
+ https://www.geeksforgeeks.org/find-index-closing-bracket-given-opening-bracket-expression/
+ https://stackoverflow.com/questions/12752225/how-do-i-find-the-position-of-matching-parentheses-or-braces-in-a-given-piece-of
+ https://medium.com/@paulrohan/parenthesis-matching-problem-in-javascript-the-hacking-school-hyd-7d7708278911
 * Match angles (angle brackets < > > < )
 * given an array of numbers, return the number of triplets where the sume of two elements equal the third. (worst n^3, better time complexity with n^2 + m log m )
 * given a string, find its first non-repeating character (given a string, find the index of an element that only appear once)
@@ -96,3 +106,12 @@ https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-ru
 ### Python
 * Pass https://docs.python.org/2.0/ref/pass.html
 
+
+
+Binary Tree as Array 
+* https://www.geeksforgeeks.org/binary-tree-array-implementation/
+* https://www.geeksforgeeks.org/construct-complete-binary-tree-given-array/
+* https://www.geeksforgeeks.org/implementation-binary-search-tree-javascript/ 
+* https://stackoverflow.com/questions/48744012/how-to-make-binary-tree-from-array-in-javascript
+* https://adrianmejia.com/data-structures-for-beginners-trees-binary-search-tree-tutorial/
+* https://stackoverflow.com/questions/8256222/binary-tree-represented-using-array
