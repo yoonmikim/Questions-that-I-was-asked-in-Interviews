@@ -75,6 +75,14 @@ https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-ru
 * given an array of numbers, return the number of triplets where the sume of two elements equal the third. (worst n^3, better time complexity with n^2 + m log m )
 * given a string, find its first non-repeating character (given a string, find the index of an element that only appear once)
 * Selling Google Stocks for maximum profit 
+* Finding the smallest positive number that is not in the array 
+ https://codereview.stackexchange.com/questions/179037/given-an-array-of-integers-return-the-smallest-positive-integer-not-in-it
+ https://repl.it/repls/TangibleDarkgrayQbasic 
+ (https://stackoverflow.com/questions/51719848/find-the-smallest-positive-integer-that-does-not-occur-in-a-given-sequence / https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/ )
+* Magic Square 
+ https://www.geeksforgeeks.org/magic-square/ 
+ https://www.mathblog.dk/hackerrank-forming-a-magic-square/
+ https://www.hackerrank.com/challenges/magic-square-forming/problem
 
 #### React 
 * Component List Button Toggle on Click 
