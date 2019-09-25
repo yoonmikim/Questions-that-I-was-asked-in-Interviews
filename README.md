@@ -89,11 +89,13 @@ https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-ru
 * GraphQL <-> RESTful API 
 * Like Button, Click to Read the Full Article Button
 * Hackernews Clone - built fullstack with Apollo, Prisma, GraphQl, and React
-* <div> <ul> <li> array.map( item => item ) </li> </ul> </div> or array.map(item => <Item item={item} />)
-
+* <div> <ul> <li> array.map( item => item ) </li> </ul> </div> or array.map(item => <Item key={id} item={item} /> )
+ Reusable <Item /> in <List > Component 
+* React Router / Connect / class List extends React.Component <-> Pure Component / import / default export
+ 
 #### Redux 
 * Redux Thunk - middleware : Redux Thunk is a middleware that lets you call action creators that return a function instead of an action object. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
-*
+* actions / reducers / mapStateToProps & mapDispatchToProps
 
 ### Ruby
 
