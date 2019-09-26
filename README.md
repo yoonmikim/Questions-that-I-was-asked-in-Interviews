@@ -116,7 +116,13 @@ https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-ru
 ### Python
 * Pass https://docs.python.org/2.0/ref/pass.html
 
-
+#### C
+ * Piglatin 
+ * Binary Tree as Linked List 
+ * Printing the last letter/character of String
+ * Prime number - if you divide by 10 and still be prime (right-truncatable prime)
+ * matrix multiplication (2D array) 
+ * magic square
 
 Binary Tree as Array 
 * https://www.geeksforgeeks.org/binary-tree-array-implementation/
