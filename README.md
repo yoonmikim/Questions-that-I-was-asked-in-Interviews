@@ -118,7 +118,7 @@ https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-ru
 
 #### C
  * Piglatin 
- * Binary Tree as Linked List 
+ * Binary Tree as Linked List (Recursive)
  * Printing the last letter/character of String
  * Prime number - if you divide by 10 and still be prime (right-truncatable prime)
  * matrix multiplication (2D array) 
