@@ -26,7 +26,7 @@ https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
  * Write SQL queries - need to brush up on that
  * ERPsuite or not, that is the question - make a slide to present with diagrams/graphs
  * Learn Qlik
- 
+ * How to communicate / collaborate with others - when we have different opionions, how do we convince one another, negotiate, agree on terms, and decide what is the best
 
 
 ## Technical
