@@ -12,6 +12,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * Previous Work Experience
 * What do you know about the company/position?
 * What are your greatest professional strengths?
+* Talk about when you had to work w/ someone - teamwork, collaboration, pair programming - challenges and how you overcome it
 * Do you have any questions?
 
 Questions I am asking in Interview:
