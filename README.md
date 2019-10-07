@@ -98,7 +98,7 @@ https://stackoverflow.com/questions/19370561/why-does-this-parallel-algorithm-ru
 * Redux Thunk - middleware : Redux Thunk is a middleware that lets you call action creators that return a function instead of an action object. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
 * actions / reducers / mapStateToProps & mapDispatchToProps
 
-### Ruby
+### Ruby on Rails
 
 * Debugging a problem with limited information
  - 500 Internal Server Error - postgres invalid syntax for integer
